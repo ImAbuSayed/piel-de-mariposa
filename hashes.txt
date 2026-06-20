@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Piel de mariposa, Vol. 2
+
+This log tracks the cryptographic history and versioning for the song **Piel de mariposa, Vol. 2** (piel-de-mariposa-vol-2).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-20T21:06:16.740298 | `v1` | `e039b6a6818000860562e9cfa84b2439ba434c1a737542ee6553f7d464d3138a` | `ad1ffc9bc998771120c831c342e2f3c25d94f58eb9e81af27b1628b596500b59` | `2026-06-20_piel-de-mariposa-vol-2-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

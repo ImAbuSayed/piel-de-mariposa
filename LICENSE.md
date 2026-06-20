@@ -1,6 +1,6 @@
 # License
 
-**Piel de mariposa**
+**Piel de mariposa, Vol. 2**
 
 Copyright (c) 2026 Abu Sayed. All Rights Reserved.
 
