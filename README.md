@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/piel-de-mariposa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Piel de mariposa, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-mariposa/) |
+| **Get License** | [Music Rights & Licensing for Piel de mariposa, Vol. 2](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/piel-de-mariposa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/3830)
 
 ---
 
